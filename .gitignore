@@ -1,0 +1,10 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+data/raw_pdf/
+data/processed/
+*.jsonl
+*.txt
+.vscode/
+.idea/
