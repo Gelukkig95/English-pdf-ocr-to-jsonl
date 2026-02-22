@@ -22,3 +22,14 @@ Each line is a JSON object:
 
 ```json
 {"instruction":"...","input":"...","output":""}
+
+
+## requirements
+
+requests
+beautifulsoup4
+pdf2image
+pytesseract
+Pillow
+openai
+tqdm
