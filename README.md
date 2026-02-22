@@ -25,12 +25,4 @@ Each line is a JSON object:
 
 ---
 
-# requirements
 
-requests
-beautifulsoup4
-pdf2image
-pytesseract
-Pillow
-openai
-tqdm
